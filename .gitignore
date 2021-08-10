@@ -1,4 +1,4 @@
 modulos/nativos/build/
 node_modules/
 
-# paquetes/npm/node_modules/
+*.png
